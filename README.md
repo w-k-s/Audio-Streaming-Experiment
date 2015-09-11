@@ -1,6 +1,6 @@
 # Audio Streaming in Go
 
-This is a very basic web server I wrote just to see how to try out audio (and by extension video) streaming with Go.
+This is a very basic web server I wrote to try out audio (and by extension video) streaming with Go.
 
 My HTML and jQuery was a little rusty so I threw in a RUST celsius to Fahrenheit converter just for a bit of revision.
 
